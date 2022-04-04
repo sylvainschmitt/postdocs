@@ -1,0 +1,8 @@
+# (PART) Opportunities {-}
+
+# Opportunities summary
+
+* [Tropical tree population genomics](): inbreeding depression and the accumulation of a mutational load in an inbred African timber species, *Pericopsis elata* (Fabaceae), threatened by over-exploitation and suffering from poor natural regeneration. *Oliver Hardy's lab.* **Jully 22.**
+* [Forest modelling and statistical ecology](https://www.uni-bayreuth.de/forest-modelling-w-41f61867723304f2): development of a demographic forest simulation model and calibrate it using extensive European forest data and Bayesian methods. *Lisa Huelsmann's lab.*
+* [Ecological modelling](https://iiasa.ac.at/job-openings?jh=fa2fcyibclgo1ipb57azp5nt03h0li5): developing and applying integrated Species Distribution Models using Bayesian and other machine learning approaches. *Piero Visconti's lab.*
+* [ALT postdoc on TROLL](): X. *Isabelle Maréchaux's lab.*

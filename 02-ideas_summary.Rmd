@@ -1,0 +1,36 @@
+# (PART) Ideas {-}
+
+# Ideas summary
+
+Ordered list based on previous works:
+
+1. **Individual growth adaptation to forest gap dynamics in tropical trees**
+    * local microgeographic adaptation to growth and forest gap dynamics [@Schmitt2022a]
+    * forest simulations [@Schmitt2019; Schmitt unpublished]
+1. **The syngameon enigma** [@Schmitt2020a]
+    * local distribution [@Schmitt2021]
+    * local adaptations to topography [@Schmitt2021a]
+    * functional traits within and among species [@Schmitt2020]
+1. **Forest dynamic modelling** [@Schmitt2019]
+1. **Tree mutations** [@Schmitt2021c]
+1. **Forest stratification and functional traits** [@Schmitt2020]
+1. **Species distribution models**: dead end [@Schmitt2017c]
+1. **Seasonal variation of functional traits**: dead end [@Schmitt2022] 
+
+## Joint effect of topography and forest gap dynamics on tropical tree microgeographic adaptations within and among species
+
+- review syngameons [@Buck2022]
+- within species adptation to neighbours [@OBrien2022]
+- local versus regional ?
+- modelling approach: ecoevosimulator, TROLL, ...
+- local and regional success of syngameons
+- Amazon basin
+- two scale study
+- how to integrate ITV: sampling based (Schmitt & Boisseaux in prep) versus inference based with simulator (Fischer et al. in prep)
+- "studying treefalls ideally requires both large spatial and temporal coverage due to the episodic nature of treefalls" [@Schmitt2020a] -> ForestGeo?
+- observation *in natura* versus experiment?
+- "niche-hiking pioneer species that create these early-successional treefalls" [@Schmitt2020a]
+- growth, survival, recruitment
+- merge of population genetics and demography/population dynamics
+- growth is determined by individual more than species (reproduce figure from [PhD](https://phdthesissylvainschmitt.netlify.app/appendix-1-discussion-supplementary-materials.html#fig:A1gmaxspecies) for the whole Paracou community)
+- Paracou growth model, gmax structure among biological level (individual, species, genus, family), topography and forest gap dynamics effect on gmax
